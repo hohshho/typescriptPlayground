@@ -11,3 +11,4 @@ if(1 < x < 3) {
     // true
 }
 
+console.log(4/[]);
